@@ -197,7 +197,8 @@ else
       {
         "trailingComma": "'${trailing_comma_pref}'",
         "singleQuote": true,
-        "printWidth": '${max_len_val}'
+        "printWidth": '${max_len_val}',
+         "endOfLine": "auto"
       }
     ],
     "jsx-a11y/href-no-hash": "off",
